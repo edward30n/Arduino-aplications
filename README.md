@@ -13,3 +13,6 @@ Files:
 
 
     3)  Resultados: this folder has two documents. The first one named "Datos.txt" has the row data extracted from the heart rate sensor. then, the excel has the infomation proceded in a graph.
+
+
+This code Was made by Edward Nicolas Duarte Valencia, Juliana Toro Camelo and David Santiago Orozco, all students of the PJU.
